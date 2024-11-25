@@ -7,6 +7,6 @@
 - I'm also an independent pianist beginner, my channel have the same name of Aramid Monsalve on YouTube if you would like to see.
 - And that's all, nice to meet you.
 <!---
-AramidModesty/AramidModesty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+AramidModesty/AramidModesty is a ✨ special ✨ repository because its `README.md` This file will appear at my description. This comment here is a future example for me in
+how to comment with github
 --->
