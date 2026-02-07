@@ -1,4 +1,4 @@
-- Hello. I'm Aramid Monsalve, who can be refered as Aramid Modesty only as name for this account persona.
+- Hello. I'm Aramid Monsalve.
 - I'm a student of technology in "Tecnología en Desarrollo de Aplicaciones para Dispositivos Móviles" at ITM from Colombia.
 - As a Java, Python, and most recently c++ developer, you can ask me the doubts you have. But know that I'm only at my
   fourth semester, and that I am a Spanish speaker who is not really used to speak so don't expect me to speak without stuttering or speaking a bit loud.
